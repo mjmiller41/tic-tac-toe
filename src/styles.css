@@ -88,3 +88,10 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.winner {
+  background-color: lightgreen;
+}
+
+.new-game-btn {
+}
